@@ -1,3 +1,6 @@
 Tämä on toinen tiedosto
 
 Tämä on uutta sisältöä
+
+
+Muokataan sisältöä git add -p komentoa varten

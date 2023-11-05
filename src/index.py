@@ -5,6 +5,9 @@ def main():
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
+    print(f"Hajotetaan Pylint-testit lisäämällä liian pitkä lause osaksi index.py -tiedostoa")
+
+
     print(f"Mehuvarasto: {mehua}, Olutvarasto: {olutta}")
 
     print("Mehu setterit:", "Lisätään 50.7 ja otetaan 3.14")

@@ -27,4 +27,4 @@ max-nested-blocks=2
 [DESIGN]
 
 max-statements=15
-max-methods=10
+max-public-methods=20
